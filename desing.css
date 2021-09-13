@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(182, 21, 160);
+    font-family:'Arial Black';
+}
+
+
+#Titulo{
+    text-align: center;
+    font: oblique bold 50%/50% serif;
+}
+#table {
+    background-color: cyan;
+}
+
+.color{
+    color:mintcream;
+}
